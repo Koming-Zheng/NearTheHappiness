@@ -1,37 +1,27 @@
-# 离幸福很近 索达吉堪布 著
+# 离幸福很近 带你认识佛教 索达吉堪布 著
 
-#### 介绍
-带你认识佛教
+#### 目录
 
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1.  怎样面对痛苦
+2.  金钱，到底有多少钱
+3.  问佛陀情为何物
+4.  幸福的根本是心
+5.  科技发达时代的佛法教育
+6.  佛法的生命科学观
+7.  未来生命及往生净土
+8.  信心是最好的财富
+9.  初学者不应视师如佛
+10. 有十种事情不能做
+11. 略说忏悔
+12. 让你重新认识佛教
+13. 怎样学佛
+14. 佛教的未来需要你我
+15. 如何寻找大乘的方向
+16. 三殊胜
+17. 再谈放生
+18. 为临终者献爱心
+19. 以佛法利益亡者
+20. 观音心咒之功德
+21. 什么是密宗
+22. 胜利道歌讲记 Ⅰ
+23. 胜利道歌讲记 Ⅱ
